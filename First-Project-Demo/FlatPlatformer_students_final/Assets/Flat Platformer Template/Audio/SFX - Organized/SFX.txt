@@ -1,0 +1,14 @@
+Blank 1 - Door Open - Door Open
+Blank 3 - Wooden Plank Break 3 - Dummy Death
+Blank 7 - Game Over/The End - Game Over
+Blank 10 - Wooden Hit - Dummy Damage
+Blank 11 - Level Music (Short End/Potentially Loopable) - Level Music
+Blank 12 - Fly Death - Fly Death
+Blank 14 - Fly Damage - Fly Damage
+Blank 15 - Fly Buzz with wind - Fly Buzz Idle
+Blank 16 - Sci-Fi Jump - Knight Jump
+Blank 18 - Jump? - Knight Stop Moving
+Blank 21 - OOF Death - Death
+Blank 22 - Wind with Fly Buzz - Title Screen Ambient Noise
+Blank 23 - Metal Ding + Punch - Start/Replay Button - Damage Sound
+Blank 29 - Windmill - Windmill
