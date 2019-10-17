@@ -1,7 +1,49 @@
 fileFormatVersion: 2
 guid: 50d68190c963b3745b8010e22862e4ce
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 7651616322203088597
+    second: sprite_landscapping_1_0
+  - first:
+      213: -4345588836572119503
+    second: sprite_landscapping_1_1
+  - first:
+      213: 5441408506160555936
+    second: sprite_landscapping_1_2
+  - first:
+      213: -5557928991573815957
+    second: sprite_landscapping_1_3
+  - first:
+      213: -6884314117962505930
+    second: sprite_landscapping_1_4
+  - first:
+      213: 5845997108002622349
+    second: sprite_landscapping_1_5
+  - first:
+      213: -8098660828431700893
+    second: sprite_landscapping_1_6
+  - first:
+      213: -3513738383277747630
+    second: sprite_landscapping_1_7
+  - first:
+      213: 1681412886717562279
+    second: sprite_landscapping_1_8
+  - first:
+      213: 6172756049844447153
+    second: sprite_landscapping_1_9
+  - first:
+      213: -6748229024857589319
+    second: sprite_landscapping_1_10
+  - first:
+      213: 1707731244833604490
+    second: sprite_landscapping_1_11
+  - first:
+      213: -2227467379163170583
+    second: sprite_landscapping_1_12
+  - first:
+      213: 4642383481681407595
+    second: sprite_landscapping_1_13
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -40,7 +82,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -58,7 +100,7 @@ TextureImporter:
   compressionQualitySet: 0
   textureFormatSet: 0
   platformSettings:
-  - serializedVersion: 2
+  - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
     resizeAlgorithm: 0
@@ -69,9 +111,328 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: sprite_landscapping_1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1231
+        width: 799
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a815efc9649ed734398a8b569a60cac1
+      internalID: 7651616322203088597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_landscapping_1_1
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 1241
+        width: 578
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9650a9724dadaa44bf3b8070872ead7
+      internalID: -4345588836572119503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_landscapping_1_2
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1031
+        width: 537
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b665dbbe299a36049825b94fff5b7e01
+      internalID: 5441408506160555936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_landscapping_1_3
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 1062
+        width: 578
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbdd622b76bbee64db930651985a1f63
+      internalID: -5557928991573815957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_landscapping_1_4
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 842
+        width: 579
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb40d8459f3ede843b4265640382978d
+      internalID: -6884314117962505930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_landscapping_1_5
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 832
+        width: 332
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50bda532269444949bed5b3216408d26
+      internalID: 5845997108002622349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_landscapping_1_6
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 620
+        width: 579
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 560aa915d5d80f140aac493fa4e4bbad
+      internalID: -8098660828431700893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_landscapping_1_7
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 605
+        width: 281
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93d1b4b1ed51aab47bab5879a617c30a
+      internalID: -3513738383277747630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_landscapping_1_8
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 433
+        width: 305
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16a11d9f4aa73d14a89546d5828d6469
+      internalID: 1681412886717562279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_landscapping_1_9
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 438
+        width: 375
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 578665d3ca4083b48996fa89ca4bcc89
+      internalID: 6172756049844447153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_landscapping_1_10
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 344
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b78b8aaa7db7784084debbf28002823
+      internalID: -6748229024857589319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_landscapping_1_11
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 249
+        width: 305
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0882f9affc7f8744f9a6a4439c2313ac
+      internalID: 1707731244833604490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_landscapping_1_12
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 223
+        width: 375
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16e925a3fb80a1f47bd102034c6420f1
+      internalID: -2227467379163170583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_landscapping_1_13
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 1292
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 638f627a4052f8340a417228ff746320
+      internalID: 4642383481681407595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

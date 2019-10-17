@@ -1,37 +1,25 @@
 fileFormatVersion: 2
-guid: e3122eedb1bb39b4d913dfec5ed9b6b7
+guid: a7f6b40029dc1e7408b9692232c7cb26
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 8288528508495824557
-    second: sprite_grassflowers_1_0
+      213: -3917344347585040830
+    second: sprite_cloud_1_0
   - first:
-      213: -7363127981445891241
-    second: sprite_grassflowers_1_1
+      213: 5455988553483693055
+    second: sprite_cloud_1_1
   - first:
-      213: 7729437649779955526
-    second: sprite_grassflowers_1_2
+      213: 7908578943260657901
+    second: sprite_cloud_1_2
   - first:
-      213: -3909564548483821170
-    second: sprite_grassflowers_1_3
+      213: -2018520200133554766
+    second: sprite_cloud_1_3
   - first:
-      213: 5650248772000247133
-    second: sprite_grassflowers_1_4
+      213: -7840522515042039763
+    second: sprite_cloud_1_4
   - first:
-      213: -2586646214957162873
-    second: sprite_grassflowers_1_5
-  - first:
-      213: 4716621396374837394
-    second: sprite_grassflowers_1_6
-  - first:
-      213: 6700198388688616749
-    second: sprite_grassflowers_1_7
-  - first:
-      213: -1441446024608500924
-    second: sprite_grassflowers_1_8
-  - first:
-      213: 2074695377102731730
-    second: sprite_grassflowers_1_9
+      213: 4387098348220232475
+    second: sprite_cloud_1_5
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -111,7 +99,7 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: WebGL
     maxTextureSize: 2048
@@ -123,102 +111,81 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: sprite_grassflowers_1_0
-      rect:
-        serializedVersion: 2
-        x: 3
-        y: 172
-        width: 266
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0b94ba397634ce743b6451bb8e9e5819
-      internalID: 8288528508495824557
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sprite_grassflowers_1_1
-      rect:
-        serializedVersion: 2
-        x: 324
-        y: 172
-        width: 266
-        height: 146
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7037613e44f5e2641b6d82fe04210e23
-      internalID: -7363127981445891241
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sprite_grassflowers_1_2
-      rect:
-        serializedVersion: 2
-        x: 643
-        y: 172
-        width: 266
-        height: 77
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1949a38ca188e6d41873e19467dad3b4
-      internalID: 7729437649779955526
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sprite_grassflowers_1_3
-      rect:
-        serializedVersion: 2
-        x: 961
-        y: 172
-        width: 265
-        height: 106
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8074ac2534dfece428369b6d424a0b50
-      internalID: -3909564548483821170
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sprite_grassflowers_1_4
+      name: sprite_cloud_1_0
       rect:
         serializedVersion: 2
         x: 0
+        y: 356
+        width: 921
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95177156ad2647f46bae062ad9ebb4b9
+      internalID: -3917344347585040830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_cloud_1_1
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 328
+        width: 496
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce295e5bfefeb1d4ba399bc680ec0723
+      internalID: 5455988553483693055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_cloud_1_2
+      rect:
+        serializedVersion: 2
+        x: 1923
+        y: 317
+        width: 625
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aa3941eabf7da34699a3604bc5863ee
+      internalID: 7908578943260657901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_cloud_1_3
+      rect:
+        serializedVersion: 2
+        x: 13
         y: 0
-        width: 78
-        height: 97
+        width: 831
+        height: 282
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -226,20 +193,41 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a7fbaab53e149ba47b1eb728f4f9ed08
-      internalID: 5650248772000247133
+      spriteID: 4324bcd3a78a5424f9ee4da38a34bbf9
+      internalID: -2018520200133554766
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: sprite_grassflowers_1_5
+      name: sprite_cloud_1_4
       rect:
         serializedVersion: 2
-        x: 104
+        x: 1156
+        y: 8
+        width: 543
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 915cbeda03995704d894b50652dce185
+      internalID: -7840522515042039763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite_cloud_1_5
+      rect:
+        serializedVersion: 2
+        x: 1956
         y: 3
-        width: 64
-        height: 98
+        width: 277
+        height: 148
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -247,92 +235,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 222a3b257afb29f408791600f3ef7f62
-      internalID: -2586646214957162873
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sprite_grassflowers_1_6
-      rect:
-        serializedVersion: 2
-        x: 193
-        y: 3
-        width: 58
-        height: 88
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 91c79ce9913c9694bb61ad93350275df
-      internalID: 4716621396374837394
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sprite_grassflowers_1_7
-      rect:
-        serializedVersion: 2
-        x: 268
-        y: 1
-        width: 41
-        height: 127
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: fffc82d11378e4d4b8c03c2bb17fa98c
-      internalID: 6700198388688616749
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sprite_grassflowers_1_8
-      rect:
-        serializedVersion: 2
-        x: 366
-        y: 10
-        width: 77
-        height: 97
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: bc04e5d17e2f5174aa2c463fc0c6a8c0
-      internalID: -1441446024608500924
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: sprite_grassflowers_1_9
-      rect:
-        serializedVersion: 2
-        x: 468
-        y: 17
-        width: 58
-        height: 87
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e9e07637cec23214782fda07465d0db8
-      internalID: 2074695377102731730
+      spriteID: cfea82597e762ad49b2b5f2acaca5ebf
+      internalID: 4387098348220232475
       vertices: []
       indices: 
       edges: []
@@ -340,7 +244,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: a49c9e28104d22d499179381544e88b7
+    spriteID: 5e97eb03825dee720800000000000000
     internalID: 0
     vertices: []
     indices: 
